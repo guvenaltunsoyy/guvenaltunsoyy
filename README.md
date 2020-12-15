@@ -17,7 +17,7 @@
 ### 📬 Get in Touch
 
 - GitHub: You are here!
-- LinkedIn: [https://www.linkedin.com/in/guvenaltunsoyy/](linkedin)
+- LinkedIn: [guvenaltunsoyy](https://www.linkedin.com/in/guvenaltunsoyy)
 - E-mail: gven.altunsoy@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
