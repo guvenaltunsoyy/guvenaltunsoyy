@@ -5,7 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Mid-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 ![C#](https://img.shields.io/badge/CSharp-Mid-blue)
-Kocaeli University Computer Engineer Graduate. Frontend developer.
+
+- Kocaeli University Computer Engineer Graduate. Frontend developer.
 
 - 🔭 I’m currently working at **Shopi HQ** as **Frontend developer**
 - 🌱 I’m currently learning **JavaScript** and **CSS**
