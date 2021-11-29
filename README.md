@@ -3,12 +3,13 @@
 ![HTML](https://img.shields.io/badge/HTML-Mid-orange)
 ![CSS](https://img.shields.io/badge/CSS-Mid-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Mid-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![TypeScript](https://img.shields.io/badge/TypeScript-Mid-lightgrey)
 ![C#](https://img.shields.io/badge/CSharp-Mid-blue)
+![Go](https://img.shields.io/badge/Go-Mid-blue)
 
 - Kocaeli University Computer Engineer Graduate.
 
-- 🔭 I’m currently working at **Shopi HQ** as **Frontend developer**
+- 🔭 I’m currently working at **Trendyol** as **Software engineer**
 - 🌱 I’m currently learning **JavaScript** and **CSS**
 - ⚙️ playing: `.html`,`.css`,`.js`,`.ts`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Mobile-Web App** projects
