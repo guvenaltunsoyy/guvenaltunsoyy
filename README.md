@@ -4,12 +4,11 @@ Hi 👋 My name is Güven ALTUNSOY
 Software Engineer
 -----------------
 
-I'm mostly active within the React.JS, Node.JS and Go
+I'm mostly active within the Go lang, React.JS, Node.JS
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [gven.altunsoy@gmail.com](mailto:gven.altunsoy@gmail.com)
 * 🚀  I'm currently working on [Trendyol](http://trendyol.com)
-* 🧠  I'm learning go lang
 * 🤝  I'm open to collaborating on I’m looking to collaborate on Open Source projects
 
 ### Skills
